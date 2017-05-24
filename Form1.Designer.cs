@@ -48,7 +48,7 @@
             // 
             this.myport.Location = new System.Drawing.Point(484, 27);
             this.myport.Maximum = new decimal(new int[] {
-            36535,
+            65535,
             0,
             0,
             0});
